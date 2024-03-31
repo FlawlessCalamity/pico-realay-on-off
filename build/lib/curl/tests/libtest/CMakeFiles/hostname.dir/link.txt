@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libhostname.a CMakeFiles/hostname.dir/sethostname.c.obj
+/opt/homebrew/bin/arm-none-eabi-ranlib libhostname.a
